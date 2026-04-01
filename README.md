@@ -1,4 +1,4 @@
-PLAYWRIGHT TEST TASK
+**PLAYWRIGHT TEST TASK**
 
 Description
 This project contains an automated test written using Playwright.
