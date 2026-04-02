@@ -11,3 +11,5 @@ The test:
 
 - Chromium
 - Firefox
+
+Other browsers can be added in playwright.config.ts
